@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA","file":"main.js","sourcesContent":["$(document).on('click', '.close, .alert', function() {\n    $('.alert').fadeOut();\n    event.preventDefault();\n});"],"sourceRoot":"/source/"}

@@ -14,7 +14,7 @@
                 margin: 0;
                 padding: 0;
                 width: 100%;
-                color: #B0BEC5;
+                color: black;
                 display: table;
                 font-weight: 100;
                 font-family: 'Lato';
@@ -32,7 +32,7 @@
             }
 
             .title {
-                font-size: 72px;
+                font-size: 40px;
                 margin-bottom: 40px;
             }
         </style>
@@ -40,7 +40,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Be right back.</div>
+                <h1 class="title">Error 404.</h1>
+                <div class="title">Sorry, the page you are looking for could not be found.</div>
             </div>
         </div>
     </body>

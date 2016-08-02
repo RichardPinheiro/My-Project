@@ -1,0 +1,47 @@
+html, body {
+  height: 100%; }
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  font-weight: 100;
+  font-family: 'Open Sans', sans-serif; }
+
+/*.container {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}*/
+/*.content {
+    text-align: center;
+    display: inline-block;
+}*/
+.title {
+  font-size: 50px; }
+
+a {
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: none; }
+
+li {
+  list-style-type: none; }
+
+.btn-edit {
+  padding: 6px 20px !important; }
+
+.penel-login {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 7%; }
+
+.panel-title {
+  text-align: center; }
+
+.form {
+  padding: 5% 15% 5%; }
+
+/*# sourceMappingURL=app.css.map */
